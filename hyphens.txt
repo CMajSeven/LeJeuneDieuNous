@@ -1,0 +1,6 @@
+Dorico doesn't properly support literal hyphens between words so these are the discrepancies.
+
+2 tou-l'u_ni_vers
+measure 41 tou-jours_mais
+44 nou-gar_der
+46 nou-mal
